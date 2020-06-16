@@ -42,8 +42,8 @@ namespace Maori_Quiz
 
 
                 //////////////////////////Q2/////////////////////////////////////
-                Console.WriteLine("Q2:    What does Tena koutou katoa mean?");
-                Console.WriteLine("   a.What's your name?  b.Hello everybody  c.Hello");
+                Console.WriteLine("Q2: What does Tena koutou katoa mean?");
+                Console.WriteLine(" a.What's your name?  b.Hello everybody  c.Hello");
                 string answer1 = Console.ReadLine();
 
                 if (answer1 != "b")
